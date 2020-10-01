@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `npm dev`
+### `npm run dev`
 Generates CSS files from Tailwind CSS before running the app in the development mode.<br />
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
