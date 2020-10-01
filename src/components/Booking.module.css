@@ -1,0 +1,22 @@
+.calendarContainer {
+  /* background: #f5f7fa !important; */
+  border: none !important;
+  width: 100% !important;
+}
+.color-one {
+  background-color: #eff2f7 !important;
+}
+.color-two {
+  background: #f5f7fa !important;
+}
+.tile {
+  padding: 0rem 1rem !important;
+  min-height: 60px !important;
+  outline: none !important;
+}
+.tile > abbr{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #18182D;
+}
+  
