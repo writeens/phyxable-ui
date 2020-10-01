@@ -19,4 +19,21 @@
     font-weight: 500;
     color: #18182D;
 }
+.time:disabled{
+  background-color: #E4E7ED; 
+  color: #A7ACBD;
+  border: none;
+}
+.time:hover{
+  background-color: #18214D;
+  color: white;
+}
+.time:disabled:hover{
+  background-color: #E4E7ED; 
+  color: #A7ACBD;
+  border: none;
+}
+.time{
+  color: #18214D;
+}
   
